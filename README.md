@@ -41,7 +41,7 @@ Ces trois dimensions permettent de dresser un profil comportemental précis de c
 
 # 📁 Contenu du dépôt
 
-📦 Segmentation_Clients  
+📦 Segmentation_Clients_FR 
 |-- client_segmentation.ipynb # Notebook complet (analyse, clustering, interprétations)  
 |-- data/ # Dossier pour les données (si nécessaire)  
 |-- README.md # Documentation du projet
